@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartCalendar</string>
+    <string name="futTaskHeader">Future Tasks</string>
+    <string name="addItem">Add Item</string>
+    <string name="enterNewItem">Enter a new item</string>
+    <string name="weekViewHeader">Your Week</string>
+    <string name="toDoToday">To Do Today</string>
+</resources>
